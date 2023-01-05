@@ -1,7 +1,6 @@
 import interfaces.Human;
 
-public class Person implements Human {
-
+public abstract class Person implements Human {
 
     String name;
     String birthday;
